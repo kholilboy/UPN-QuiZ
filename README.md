@@ -53,13 +53,13 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
 
 7. Ketika User menekan foto salah satu developer maka akan ditampilkan profile lengkap dari Developer tersebut.
 <p align="center">
-    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/6_about_1.png" height="480px" width="300px">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/6_about_1.png" height="390px" width="200px">
 </p><br>
 
 
 8. User bisa menekan tombol panah kiri atas atau dengan menekan tombol back pada android untuk kembali.
 <p align="center">
-    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/7_about_2.png" height="480px" width="300px">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/7_about_2.png" height="390px" width="200px">
 </p><br>
 
 
