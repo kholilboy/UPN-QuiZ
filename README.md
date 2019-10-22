@@ -1,4 +1,4 @@
-## UPN-QuiZ
+# UPN-QuiZ
 
 ### Team Dev
 
@@ -23,7 +23,9 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
 
 2. Sebelum menuju menu utama, user disuguhkan splash screen selama beberapa detik.
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/1_loading.png" height="480px" width="300px">
+<p align="center">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/1_loading.png" height="390px" width="200px">
+</p>
 
 3. Didalam menu utama terdapat 3 tombol (tombol “MULAI”, tombol “ABOUT”, dan tombol “EXIT”).
 
