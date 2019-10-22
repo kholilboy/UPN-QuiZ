@@ -29,15 +29,21 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
 
 3. Didalam menu utama terdapat 3 tombol (tombol “MULAI”, tombol “ABOUT”, dan tombol “EXIT”).
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/2_menu.png" height="480px" width="300px">
+<p align="center">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/2_menu.png" height="390px" width="200px">
+</p>
 
 4. Tombol "MULAI" akan membawa user kedalam menu game, user akan disediakan berbagai macam pertanyaan (10 pertanyaan) untuk dijawab.
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/3_soal.png" height="480px" width="300px">
+<p align="center">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/3_soal.png" height="390px" width="200px">
+</p>
 
 5. Score akan ditampilkan ketika pertanyaan selesai dijawab dan akan kembali ke menu utama ketika user menekan tombol "MENU UTAMA".
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/4_score.png" height="480px" width="300px">
+<p align="center">
+    <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/4_score.png" height="390px" width="200px">
+</p>
 
 6. Tombol "ABOUT" akan mengantarkan user kepada menu ABOUT, menu about berisi deskripsi/keterangan tentang aplikasi beserta informasi Developer.
 <img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/5_about.png" height="480px" width="300px">
