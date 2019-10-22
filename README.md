@@ -8,9 +8,12 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
 ## System Requirement
 Aplikasi Android minimal 5.0 (API - 21)
 
-# Cara Penggunaan
+## Cara Penggunaan
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
-![alt text](https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png)
+
+<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="50px" width="20px">
+
+
 2. Sebelum menuju menu utama, user disuguhkan splash screen selama beberapa detik.
 ![alt text](https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/1_loading.png)
 3. Didalam menu utama terdapat 3 tombol (tombol “MULAI”, tombol “ABOUT”, dan tombol “EXIT”).
