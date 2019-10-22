@@ -12,7 +12,7 @@ Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 
 ## Cara Penggunaan
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="450px" width="300px">
+<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="480px" width="300px">
 
 
 2. Sebelum menuju menu utama, user disuguhkan splash screen selama beberapa detik.
