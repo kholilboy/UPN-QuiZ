@@ -6,12 +6,13 @@ Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih m
 Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 lainnya merupakan pertanyaan programming.
 
 ## System Requirement
-Aplikasi Android minimal 5.0 (API - 21)
+    - Aplikasi Android min5.0
+    - API Lv 21
 
 ## Cara Penggunaan
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
 
-<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="50px" width="20px">
+<img src="https://github.com/rahmanboy987/UPN-QuiZ/blob/master/img/0._home.png" height="250px" width="100px">
 
 
 2. Sebelum menuju menu utama, user disuguhkan splash screen selama beberapa detik.
