@@ -1,15 +1,20 @@
-# UPN-QuiZ
+## UPN-QuiZ
 
-## Deskripsi umum
+### Team Dev
+
+- Kholilul Rachman N.M (17081010055)
+- Moh Fathru Rohman    (17081010048)
+
+### Deskripsi umum
 Aplikasi ini merupakan sebuah game kuis tanya-jawab yang bertujuan untuk lebih mengenalkan kampus UPN Veteran Jawa Timur dan memberikan wawasan seputar UPN “Veteran” Jawa Timur kepada mahasiswa agar lebih mengenal & cinta terhadap kampus, serta mengenalkan Jurusan Teknik informatika pada bidang kuis pemrograman. 
 
 Aplikasi ini menyedian 10 pertanyaan dimana 5 diantaranya pertanyaan umum dan 5 lainnya merupakan pertanyaan programming.
 
-## System Requirement
+### System Requirement
     - Aplikasi Android min5.0
     - API Lv 21
 
-## Cara Penggunaan
+### Cara Penggunaan
 1. User masuk kedalam aplikasi dengan menekan tombol ikon aplikasi terlebih dahulu.
 
 <p align="center">
